@@ -1,6 +1,7 @@
 # Simon-Game
 
 H𝗼𝘄 𝘁𝗼 𝗽𝗹𝗮𝘆??
+
 When you press Enter and start, then you have to pay attention on two things, 
 1. On the indicating color at that level.
 2. And the sequence you click.(You have to remember the sequence, like for
