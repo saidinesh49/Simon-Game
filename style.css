@@ -1,10 +1,10 @@
 body {
     text-align: center;
-    background-color: #011F3F;
+    background-color: #440251;
   }
   
   #level-title {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Anta', cursive;
     font-size: 3rem;
     margin:  5%;
     color: #FEF2BF;
@@ -22,7 +22,7 @@ body {
     display: inline-block;
     height: 200px;
     width: 200px;
-    border: 10px solid black;
+    border: 5px solid black;
     border-radius: 20%;
   }
   
@@ -32,18 +32,26 @@ body {
   }
   
   .red {
+    border-radius: 0 100% 0 0;
+    box-shadow: rgba(255, 255, 255, 0.342) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: rgb(228, 67, 67);
   }
   
   .green {
+    border-radius: 100% 0 0 0;
+    box-shadow: rgba(255, 255, 255, 0.342) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: rgb(7, 130, 13);
   }
   
   .blue {
+    border-radius: 0 0 100% 0;
+    box-shadow: rgba(255, 255, 255, 0.342) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: rgb(19, 168, 179);
   }
   
   .yellow {
+    border-radius: 0 0 0 100%;
+    box-shadow: rgba(255, 255, 255, 0.342) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: rgb(230, 230, 17);
   }
   
