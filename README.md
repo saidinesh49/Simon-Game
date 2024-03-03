@@ -1,4 +1,3 @@
-PLAY LIVE GAME: https://saidinesh49.github.io/Simon-Game/
 # Simon-Game
 
 H𝗼𝘄 𝘁𝗼 𝗽𝗹𝗮𝘆??
